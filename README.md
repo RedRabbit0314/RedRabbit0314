@@ -34,10 +34,13 @@ I want to be a person who gives you new wisdom.
     <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
     <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
     <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+</div>
+<br/>
+<div align="center">
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedRabbit0314&theme=gruvbox_light&show_icons=true)
+    
 </div> 
-
-
-
 <!---
 RedRabbit0314/RedRabbit0314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
