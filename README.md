@@ -18,19 +18,30 @@ I want to be a person who gives you new wisdom.
 </div> 
 
 <div align="center">
-  Techs that I've used at least once
+  <strong>Techs that I'm mainly using right now</strong>
 </div> 
 <br/>
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>
-    <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-    <img src="https://img.shields.io/badge/keras-00000?style=flat-square&logo=keras&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FastApi-009688?style=flat-square&logo=FastApi&logoColor=white"/>
 </div>
 <br/>
 <div align="center">
+    <strong>Techs that I've used at least once</strong>
+</div> 
+<br/>
+<div align = 'center'>
+    <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/keras-00000?style=flat-square&logo=keras&logoColor=white"/>
+</div>
+<br/>
+<div align="center"
+
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedRabbit0314&theme=gruvbox_light&show_icons=true)
     
